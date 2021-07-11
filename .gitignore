@@ -1,0 +1,6 @@
+.vscode
+geckodriver.log
+Pipfile
+Pipfile.lock
+__pycache__/
+
