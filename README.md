@@ -1,6 +1,6 @@
 # Amazon_price_notifier
 
-Amazon price notifier is a cross platform desktop application thats allows user to get desktop notfications when the price of their desired product drops to their target budget. This App will work on Windows, Linux, and Mac OS.
+Amazon price notifier is a cross platform desktop application that allows user to get desktop notfications when the price of their desired product drops to their target budget. This App will work on Windows, Linux, and Mac OS.
 
 This repository requires python 3.0 or above, so make sure that is installed on your machine. Download or clone the repository and create a virtual environmen by using the following command:
 
